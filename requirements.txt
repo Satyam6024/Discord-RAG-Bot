@@ -1,0 +1,7 @@
+discord.py
+sentence-transformers
+sqlite-vec
+ollama
+python-dotenv
+numpy
+requests
