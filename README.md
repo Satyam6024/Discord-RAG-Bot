@@ -93,9 +93,7 @@ Discord User
   -> Discord Reply
 ```
 
-## Share This Project With A Friend
-
-You can share the project in either of these ways:
+## How to run on your local machine:
 
 ### Option 1: Git repository
 
